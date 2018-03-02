@@ -6,7 +6,7 @@
 > ![](http://p27z4ahy7.bkt.clouddn.com/TIM%E5%9B%BE%E7%89%8720180302165136.png)
 
 # 3.运行效率
-* 使用线程池的方式，多文件同时进行读取匹配，运行效率较之传统单线程方式提高数十倍；
+使用线程池的方式，多文件同时进行读取匹配，运行效率较之传统单线程方式提高数十倍；
 
 # 4.需要的三方库
 1. itextsharp库，下载后解压itextsharp-dll-core.zip，程序引用itextsharp.dll。

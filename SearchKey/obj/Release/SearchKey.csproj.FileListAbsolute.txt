@@ -1,0 +1,13 @@
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\bin\Release\SearchKey.exe.config
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\Interop.VBIDE.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\Interop.Word.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\SearchKey.csproj.ResolveComReference.cache
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\bin\Release\SearchKey.exe
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\bin\Release\SearchKey.pdb
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\bin\Release\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\SearchKey.SearchKey.resources
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\SearchKey.Properties.Resources.resources
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\SearchKey.csproj.GenerateResource.Cache
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\SearchKey.exe
+D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Release\SearchKey.pdb

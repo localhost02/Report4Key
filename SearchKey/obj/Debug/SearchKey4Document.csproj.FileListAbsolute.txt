@@ -1,0 +1,14 @@
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\bin\Debug\SearchKey4Document.exe.config
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\bin\Debug\SearchKey4Document.exe
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\bin\Debug\SearchKey4Document.pdb
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.Properties.Resources.resources
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.csproj.GenerateResource.Cache
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.exe
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.pdb
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.csproj.ResolveComReference.cache
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\Interop.VBIDE.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\Interop.Word.dll
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.csprojResolveAssemblyReference.cache
+D:\BigProgram\Visual Studio2012\WorkSpace\UDP-Client\SearchKey4Document\SearchKey4Document\obj\Debug\SearchKey4Document.SearchKey.resources

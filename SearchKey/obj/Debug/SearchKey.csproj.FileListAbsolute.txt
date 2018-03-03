@@ -25,3 +25,17 @@ D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\bin\Debug\SearchKe
 D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Debug\SearchKey.exe
 D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Debug\SearchKey.pdb
 D:\BigProgram\Visual Studio2012\WorkSpace\SearchKey\SearchKey\obj\Debug\SearchKey.csprojResolveAssemblyReference.cache
+E:\Desktop_Files\GIT\SearchKey\SearchKey\bin\Debug\SearchKey.exe.config
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\Interop.VBIDE.dll
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\Interop.Word.dll
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.csproj.ResolveComReference.cache
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.exe
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.pdb
+E:\Desktop_Files\GIT\SearchKey\SearchKey\bin\Debug\SearchKey.exe
+E:\Desktop_Files\GIT\SearchKey\SearchKey\bin\Debug\SearchKey.pdb
+E:\Desktop_Files\GIT\SearchKey\SearchKey\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Desktop_Files\GIT\SearchKey\SearchKey\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.SearchKey.resources
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.Properties.Resources.resources
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.csproj.GenerateResource.Cache
+E:\Desktop_Files\GIT\SearchKey\SearchKey\obj\Debug\SearchKey.csprojResolveAssemblyReference.cache

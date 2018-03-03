@@ -49,7 +49,7 @@ namespace SearchKey
             {
                 string dir = folder.SelectedPath;
                 Util.GetFile(dir, fileList);
-                btn_select_dir.Text = dir.Substring(0, 24) + "...";
+                btn_select_dir.Text = dir.Length > 24 ? dir.Substring(0, 24) + "..." : dir;
             }
         }
 
